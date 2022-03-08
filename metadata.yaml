@@ -1,0 +1,39 @@
+_repo: Cheating-the-Junk-Pile-The-Purchase-and-Maintenance-of-Household-Equipments_67507
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Wright, Richardson
+    gutenberg_agent_id: '54298'
+    url: http://www.gutenberg.org/2009/agents/54298
+  illustrator:
+    agent_name: Richardson, Harry
+    gutenberg_agent_id: '54299'
+    url: http://www.gutenberg.org/2009/agents/54299
+creator:
+  author:
+    agent_name: Peyser, Ethel R. (Ethel Rose)
+    alias: Peyser, Ethel Rose
+    birthdate: 1887
+    deathdate: 1961
+    gutenberg_agent_id: '53998'
+    url: http://www.gutenberg.org/2009/agents/53998
+description: ''
+gutenberg_issued: '2022-02-26'
+identifiers:
+  gutenberg: '67507'
+language: en
+pgterms:marc904: https://archive.org/details/cheatingjunkpile00peys/page/n7/mode/2up
+pgterms:marc905: 20200725155456peyser
+pgterms:marc906: '1922'
+pgterms:marc907: US
+production_note: Charlene Taylor, Harry Lamé and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: United States :E.P. Dutton & Company,1922.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Cheating the Junk-Pile: The Purchase and Maintenance of Household Equipments'
+url: http://www.gutenberg.org/ebooks/67507
