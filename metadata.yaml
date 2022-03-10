@@ -9,6 +9,9 @@ contributor:
     agent_name: Richardson, Harry
     gutenberg_agent_id: '54299'
     url: http://www.gutenberg.org/2009/agents/54299
+covers:
+- cover_type: archival
+  image_path: 67507-h/images/cover.jpg
 creator:
   author:
     agent_name: Peyser, Ethel R. (Ethel Rose)
@@ -18,6 +21,8 @@ creator:
     gutenberg_agent_id: '53998'
     url: http://www.gutenberg.org/2009/agents/53998
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67507#Cheating-the-Junk-Pile-The-Purchase-and-Maintenance-of-Household-Equipments
 gutenberg_issued: '2022-02-26'
 identifiers:
   gutenberg: '67507'
